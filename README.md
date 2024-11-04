@@ -1,8 +1,19 @@
-# React + Vite
+# OMDB React Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. Project Overview
+A simple web application built with React that allows users to search for movies using the OMDB API.
 
-Currently, two official plugins are available:
+## 2. Features
+- Search for movies by title.
+- Display movie details (title, year, genre, and poster).
+- Responsive design for mobile and desktop.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 3. Technologies Used
+- **React.js**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **OMDB API**: API used to fetch movie data.
+
+## 4. Getting Started
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/praveen-piramanayagam/OMDB_React_task.git
